@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Recent 2023 MCA graduate actively seeking software engineering opportunities.<br>💼 Top skills in Python, Java Core, HTML, C.<br>🌄 Adventure enthusiast who enjoys hiking and trekking.<br>⚽ Enjoys playing football, even though not a pro!<br>🎮 Loves competitive multiplayer online gaming.
+🎓 Recent 2023 MCA graduate actively seeking software engineering opportunities.<br>💼 Top skills in Python, Java Core, HTML, C.<br>🌄 Adventure enthusiast who enjoys hiking and trekking.<br>⚽ Enjoys playing football, even though not good at it!<br>🎮 Loves competitive multiplayer online gaming.
 
 
 ## 🌐 Socials:
